@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy [Juan Esteban]
 
-![Banner](https://via.placeholder.com/1000x300.png?text=Bienvenido+a+mi+perfil)
+
+![Banner](./github-header-image.png)
 
 ## 🚀 Sobre mí
 Soy un estudiante de Ingeniería en Sistemas apasionado por la tecnología, la programación y el desarrollo de software. Actualmente, estoy explorando temas como sistemas operativos, programación de bajo nivel y desarrollo web.
