@@ -1,6 +1,6 @@
 
 
-![Banner](./github-header-image.png)
+![Banner](./github-header-image(1).png)
 
 ## 🚀 Sobre mí
 Soy un estudiante de Ingeniería en Sistemas apasionado por la tecnología, la programación y el desarrollo de software. Actualmente, estoy explorando temas como sistemas operativos, programación de bajo nivel y desarrollo web.
