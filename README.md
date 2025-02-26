@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Juan Esteban]
 
-<!--
-**sukatz/sukatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://via.placeholder.com/1000x300.png?text=Bienvenido+a+mi+perfil)
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+Soy un estudiante de Ingeniería en Sistemas apasionado por la tecnología, la programación y el desarrollo de software. Actualmente, estoy explorando temas como sistemas operativos, programación de bajo nivel y desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías y herramientas
+- ⚡ React, JavaScript, Next.js, Express, Firebase
+- 🔧 Linux (Fedora, Ubuntu, Linux Mint)
+- 🎮 Desarrollo de videojuegos 
+
+## 🔥 Proyectos Destacados
+- **🎮 Twordle** - Un juego multijugador estilo Wordle en React y Firebase.
+- **📘 Curso de React** - Proyecto estructurado con buenas prácticas y documentación.
+
+
+¡Gracias por visitar mi perfil! 😊
