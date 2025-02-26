@@ -12,7 +12,7 @@ Soy un estudiante de Ingeniería en Sistemas apasionado por la tecnología, la p
 
 ## 🔥 Proyectos Destacados
 - **🎮 Twordle** - Un juego multijugador estilo Wordle en React y Firebase.
-- **📘 Curso de React** - Proyecto estructurado con buenas prácticas y documentación.
+- **📘 App para la Gestión del tiempo** - Proyecto para la asignatura estructura de datos; buenas prácticas y documentación.
 
 
 ¡Gracias por visitar mi perfil! 😊
